@@ -3,3 +3,5 @@ sCORE の SNS 投稿用に生成した動画の公開置き場。生成元は `s
 
 - `videos/<日付>/<日付>_<HHMM>.mp4` — その日の予約枠(06:00 / 12:00 / 17:00 JST)ごとの1本
 - ブリーフ・キャプションは `score-sns-auto/briefs/<日付>.json`
+- `catalog/fx_catalog.mp4` — 効果(登場・文字の出方・背景・切り替え・カメラ)とフォントの見本。画面下の名前をブリーフに書く
+- `catalog/audio_catalog.mp4` — 効果音・BGMの見本
